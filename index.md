@@ -1,7 +1,7 @@
 ### Welcome!
 
 
-<a href="url"><img src="./images/mjp.jpeg" align="right" height="200" hspace="20"></a>
+<a href="url"><img src="./images/mjp.jpeg" align="right" height="200" hspace="20" vspace="20"></a>
 I am a senior staff member of the [Johns Hopkins Applied Physics Laboratory](http://www.jhuapl.edu) where I am a member of the machine learning group within the [Research and Exploratory Development Department]( http://www.jhuapl.edu/ourwork/red/default.asp).
 My work here consists of developing software, algorithms, models, and simulations to solve scientific problems. 
 These days, this primarily involves developing and applying machine learning techniques to solve problems of interest to our sponsors.  
