@@ -8,6 +8,6 @@ My work here consists of developing software, algorithms, models, and simulation
 I am also currently a part-time student (PhD candidate) at the University of Maryland College Park in the [Applied Mathematics & Statistics, and Scientific Computation program](http://www.amsc.umd.edu).
 Here I am collaborating with members of the Norbert Wiener Center for Harmonic Analysis on problems that lie at the intersection of deep learning and applied mathematics.
 
-When not working or spending time with my family I enjoy puzzles and games; in particular no limit hold'em.
+When not working or spending time with my family I enjoy puzzles and games; in particular [http://forumserver.twoplustwo.com/7/no-limit-holdem/](no limit hold'em).
 
 Much of what I work on is not publicly available; however, a few small projects (in various states of completion) can be found on my [github](https://github.com/mjpekala) page.
