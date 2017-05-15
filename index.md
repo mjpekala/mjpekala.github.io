@@ -9,5 +9,6 @@ These days, this primarily involves developing and applying machine learning tec
 I am also currently a part-time student (PhD candidate) at the University of Maryland College Park in the [Applied Mathematics & Statistics, and Scientific Computation program](http://www.amsc.umd.edu).
 Here I am collaborating with members of the Norbert Wiener Center for Harmonic Analysis on problems that lie at the intersection of deep learning and applied mathematics.
 
-When I'm not working I enjoy spending time with my wife and son. 
-In any time that remains I enjoy playing no limit hold'em (usually at MD Live or Tropicana in AC).
+When not working or spending time with my family I enjoy games and puzzles; in particular no limit hold'em.
+
+Much of what I work on is not publicly available; however, a few small projects (in various states of completion) can be found on my [github](https://github.com/mjpekala) page.
