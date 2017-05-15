@@ -849,3 +849,8 @@ section #title .credits.right {
     display: none;
   }
 }
+
+
+.callout {
+   float : right;
+}
