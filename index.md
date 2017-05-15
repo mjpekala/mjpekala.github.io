@@ -5,7 +5,7 @@
 I am a senior staff member at the [Johns Hopkins Applied Physics Laboratory](http://www.jhuapl.edu) where I am part of the machine learning group within the [Research and Exploratory Development Department]( http://www.jhuapl.edu/ourwork/red/default.asp).
 My work here consists of developing software, algorithms, models, and simulations to solve scientific problems, with an emphasis on machine learning. 
 
-I am also currently a part-time student (PhD candidate) at the University of Maryland College Park in the Applied Mathematics & Statistics, and Scientific Computation program[AMSC](http://www.amsc.umd.edu).
+I am also currently a part-time student (PhD candidate) at the University of Maryland College Park in the Applied Mathematics & Statistics, and Scientific Computation [(AMSC)](http://www.amsc.umd.edu) program.
 Here I am collaborating with members of the Norbert Wiener Center for Harmonic Analysis on problems that lie at the intersection of deep learning and applied mathematics.
 Prior to joining the AMSC program I obtained BS and MS degrees in Computer Science from the Johns Hopkins University.
 
